@@ -61,3 +61,14 @@ alone does not establish that a record is erroneous. The sales
 calculation check found no mismatches.
 
 Detailed results are available in output/outlier_report.xlsx.
+
+
+### Project Files
+
+- `cleaning.py` - Data cleaning script
+- `create_dictionary.py` - Data dictionary generation script
+- `outlier_check.py` - Outlier detection script using the IQR method
+- `data_dictionary.xlsx` - Description of dataset columns
+- `data/ApexPlanet_DataAnalytics_Dataset.xlsx` - Original dataset
+- `output/cleaned_dataset.xlsx` - Cleaned dataset
+- `output/outlier_report.xlsx` - Outlier investigation report
